@@ -10,9 +10,9 @@ const Footer = () => {
       <div className='flex flex-col  max-sm:gap-8 sm:space-y-9'>
       <h1  className="font-extrabold text-slate-700 text-[1.8rem] cursor-pointer hover:drop-shadow-lg">Note App</h1>
       <ul className='flex gap-5 items:center'>
-        <li><a href="https://github.com/Vinesh001"><img className='w-7 hover:shadow-xl' src={github} alt="github" /></a></li>
-        <li> <a href="https://www.linkedin.com/in/vinesh-0294ab22b/"><img className='w-7 hover:shadow-xl' src={linkedin}  alt="linkedin" /></a></li>
-        <li> <a href="https://twitter.com/VineshBaghel5"><img className='w-7 hover:shadow-xl' src={twitter}  alt="twitter" /></a></li>
+        <li><a href="#"><img className='w-7 hover:shadow-xl' src={github} alt="github" /></a></li>
+        <li> <a href="#"><img className='w-7 hover:shadow-xl' src={linkedin}  alt="linkedin" /></a></li>
+        <li> <a href="#"><img className='w-7 hover:shadow-xl' src={twitter}  alt="twitter" /></a></li>
       </ul>
       </div>
       <div>
